@@ -2,7 +2,7 @@ Here's a sample content you can use for a GitHub repository that generates rando
 
 ---
 
-# Random Data Generator for CSV
+# Random Data Generator in CSV format
 
 This repository provides a Python-based tool to generate random data and save it in CSV format. It's useful for testing, data analysis, or generating sample datasets when you need realistic but random data for projects.
 
